@@ -1,0 +1,33 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+
+}
+
+form{
+    text-align: center;
+    font-size: 25px;
+    max-width: 60vw;
+    margin: auto;
+    border-radius: 8px;
+    border: 2px solid yellow;
+    background-color: white;
+}
+
+button{
+    font-size: large;
+    padding: 8px;
+    border-radius: 8px;
+    border: 2px solid yellow;
+    background-color: greenyellow;
+}
+
+label{
+    font-style: italic;
+    padding: 8px;
+}
+
+#textbox{
+    font-size: 18px;
+    text-align: center;
+}
