@@ -20,6 +20,7 @@ button{
     border-radius: 8px;
     border: 2px solid yellow;
     background-color: greenyellow;
+    cursor: pointer;
 }
 
 label{
